@@ -1,0 +1,9 @@
+GET http://localhost:8000/api/products
+Accept: application/json
+Content-Type: application/json
+
+//{
+//    "title": "wHAASSSUP!1",
+//    "image": "helloGJ.jpg"
+//}
+
