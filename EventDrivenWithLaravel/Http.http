@@ -1,9 +1,9 @@
-GET http://localhost:8000/api/products
+DELETE http://localhost:8000/api/products/13
 Accept: application/json
 Content-Type: application/json
 
 //{
-//    "title": "wHAASSSUP!1",
-//    "image": "helloGJ.jpg"
+//    "title": "Third-ed Rabbit",
+//    "image": "test3.jpg"
 //}
 
