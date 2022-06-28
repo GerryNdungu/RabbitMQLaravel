@@ -1,9 +1,6 @@
-DELETE http://localhost:8000/api/products/13
+POST http://localhost:8001/api/products/6/like
 Accept: application/json
 Content-Type: application/json
 
-//{
-//    "title": "Third-ed Rabbit",
-//    "image": "test3.jpg"
-//}
+//{}
 
